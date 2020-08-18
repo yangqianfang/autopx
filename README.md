@@ -1,3 +1,4 @@
+![Image text](https://github.com/yangqianfang/autopx/blob/master/src/assets/page.png)
 # autopx
 
 ## Project setup
